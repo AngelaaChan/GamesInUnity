@@ -1,0 +1,3 @@
+Angela’s contribution: lighting and sun, Phong’s model.
+Jay’s contribution: Landscape mesh modeling, splat map generation, consistent distance between water and terrain, water mesh model
+Chuan’s contribution: Camera control, Collision, waves, Phong’s model.

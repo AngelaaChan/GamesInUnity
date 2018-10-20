@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/new_Scene_by_jay.unity
+  isLoaded: 1
+  isActive: 1

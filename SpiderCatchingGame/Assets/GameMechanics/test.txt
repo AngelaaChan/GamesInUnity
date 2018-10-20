@@ -1,0 +1,7 @@
++ keyFind(): void
++ exploreUpdate(currPos: Coordinate, currView: HashMap<Coordinate, MapTile>, orientation: Direction):void
++ choosemovement(currPos: Coordinate, currView: HashMap<Coordinate, MapTile>, orientation: Direction): Movement
++ reserving(): boolean
++ checkOk(orientation: Direction, visitStatus: HashMap<Coordinate, MapTile>, currentPosition: Coordiante, int): boolean
++ scan(currView: HashMap<Coordinate, MapTile>): void
+
